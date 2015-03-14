@@ -15,3 +15,29 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+
+# general
+*~
+.DS_Store
+
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+bin
+
+# IDEA
+/.idea
+/.idea_modules
+
+# SBT
+dist
+project/project
+project/target
+target
+.target
+
+# Play
+logs
